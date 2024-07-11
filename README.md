@@ -38,6 +38,9 @@ This is a Streamlit web application for exploring and visualizing data. It provi
 - Pandas: Data manipulation and analysis library.
 - Matplotlib/Plotly/Seaborn: Libraries for data visualization.
 
+## Project Demonstration in Web browser
+- Network URL: http://192.168.210.59:8501
+
 ## Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
 
