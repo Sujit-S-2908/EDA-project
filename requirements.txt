@@ -1,0 +1,5 @@
+matplotlib
+flask
+opencv-python
+ultralytics
+scikit-learn
