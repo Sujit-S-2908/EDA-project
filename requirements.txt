@@ -1,5 +1,5 @@
 matplotlib
 flask
-opencv-python
-ultralytics
-scikit-learn
+streamlit
+pandas
+seaborn
